@@ -1,0 +1,19 @@
+
+.containerInsert{
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    position: fixed;
+    right: 0;
+    background-color: rgb(224, 197, 207);
+}
+
+.containerInputText{
+    margin: 8px 0px;
+    height: 40%;
+}
+.containerInputText input[type=text]{
+   
+    margin: 6px;
+    height: 90%;
+}
